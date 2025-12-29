@@ -1,2 +1,1 @@
-# my-terraform-repo
-Repository created by Terraform
+# This repository is for infra development
